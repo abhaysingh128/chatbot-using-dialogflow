@@ -1,0 +1,7 @@
+[DEFAULT]
+SENDER_EMAIL=gehuchatbot@gmail.com
+PASSWORD=gehu9124
+EMAIL_BODY=This is a config email
+EMAIL_SUBJECT=GEHU Course Details
+SALES_TEAM_EMAIL=gehuchatbot@gmail.com
+SALES_TEAM_EMAIL_SUBJECT=LEAD GENERATED
